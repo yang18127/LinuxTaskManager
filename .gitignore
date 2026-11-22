@@ -1,0 +1,3 @@
+*.o
+LinuxTaskManager
+logs/*.log
